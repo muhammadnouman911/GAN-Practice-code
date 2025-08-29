@@ -42,7 +42,6 @@ Run easily in **Google Colab** without local setup!
 * **GAN (MNIST):** Generates digit-like images from random noise.
 * **cGAN:** Generates digits conditioned on specific labels (e.g., “only 3s” or “only 7s”).
 
-
 ---
 
 ## 🤝 Contributing
