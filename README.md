@@ -1,5 +1,3 @@
-
-
 ---
 
 # 🎨 GAN Practice Code
